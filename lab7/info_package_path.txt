@@ -1,0 +1,17 @@
+package 1: lab7.shape
+- Ex1.1: Abstract Superclass Shape and Its Concrete Subclasses
+
+package 2: lab7.geometric
+- Ex1.2: GeometricObject Interface and its Implementation Classes Circle and Rectangle
+
+package 3: lab7.movable
+- Ex1.3: Movable Interface and its Implementation MovablePoint Class
+- Ex1.4: Movable Interface and its Implementation Classes Movable-Point and MovableCircle
+- Ex1.8: Interface Movable and its implementation subclasses MovablePoint and MovableCircle
+
+package 4: lab7.resizable
+- Ex1.5: Interfaces Resizable and Geometric
+
+package 5: lab7.animal
+- Ex1.6: Abstract Superclass Animal and its Implementation Subclasses
+- Ex1.7: Another View of Abstract Superclass Animal and its Implementation Subclasses
