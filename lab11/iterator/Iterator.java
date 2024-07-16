@@ -1,0 +1,6 @@
+package lab11.iterator;
+
+public interface Iterator {
+    boolean hasNext();
+    Object next();
+}
